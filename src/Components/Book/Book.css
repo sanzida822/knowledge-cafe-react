@@ -1,0 +1,14 @@
+.book-container {
+ border: 1px solid salmon;
+    }
+
+.book-container img{
+height: 400px;
+width: 800px;
+}
+
+.bottom-element{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
